@@ -6,7 +6,7 @@ This repository contains a CSV file that serves as the raw dataset. The dataset 
 
   1. Null Values: All null values have been removed to ensure data integrity.
   2. Duplicates: Duplicate entries have been identified and deleted.
-  3.Sorting: The data has been sorted by date from oldest to newest for chronological analysis.
+  3. Sorting: The data has been sorted by date from oldest to newest for chronological analysis.
   4. Formatting:
         All columns have been highlighted and bolded for emphasis.
         Text alignment has been set to center for improved readability.
